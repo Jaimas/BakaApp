@@ -16,3 +16,7 @@
 1447232331368	Move 'resources' to 'WebContent'
 1447232456837	Move 'resources' to 'WEB-INF'
 1447233195743	Move 'resources' to 'WebContent'
+1447243737318	Delete element
+1447246449673	Move 7 resources to 'theme'
+1447246464636	Rename resource 'file.js'
+1447250453848	Rename resource 'mif.png'

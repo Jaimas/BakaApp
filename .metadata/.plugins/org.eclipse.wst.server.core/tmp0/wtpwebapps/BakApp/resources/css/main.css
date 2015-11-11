@@ -1,2 +1,10 @@
+/* Theme styles START*/
+@import url("theme/bootstrap.min.css");
+@import url("theme/font-awesome.min.css");
+@import url("theme/metisMenu.min.css");
+@import url("theme/morris.css");
+@import url("theme/sb-admin-2.css");
+@import url("theme/timeline.css");
+/* Theme styles END*/
+
 @import url("layout.css");
-@import url("login.css");
