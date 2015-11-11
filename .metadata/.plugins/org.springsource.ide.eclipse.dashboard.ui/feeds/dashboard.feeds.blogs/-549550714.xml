@@ -5,7 +5,30 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2015-11-03T21:35:46Z</updated>
+  <updated>2015-11-10T14:11:00Z</updated>
+  <entry>
+    <title>This Week in Spring - November, 10, 2015</title>
+    <link rel="alternate" href="https://spring.io/blog/2015/11/10/this-week-in-spring-november-10-2015" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2015-11-10:2295</id>
+    <updated>2015-11-10T14:11:00Z</updated>
+    <content type="html">&lt;p&gt;Welcome to another installation of &lt;em&gt;This Week in Spring&lt;/em&gt;! This week I&amp;rsquo;m in Antwerp, Belgium for the grand mother of all Devoxxes (Devoxxen?), Devoxx Belgium! I&amp;rsquo;m here along with several members of the team and &lt;a href="http://twitter.com/starbuxman"&gt;if you&amp;rsquo;re around, don&amp;rsquo;t hesitate to say hi&lt;/a&gt;!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2015/11/03/spring-xd-1-3-rc1-released"&gt;Dr. Mark Pollack has just announced the release of Spring XD 1.3RC1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Stormpath, the cloud, and on-premise, identity provider as-a-service has put up &lt;a href="https://stormpath.com/blog/build-spring-boot-spring-security-app/"&gt;an &lt;em&gt;exhaustive&lt;/em&gt; blog on using their Spring Boot auto-configuration with Spring Security&lt;/a&gt;! This is a &lt;em&gt;really&lt;/em&gt; cool integration. I hope people reward their hard work in striving for the most powerful, expressive, and convenient developer experience! Way to go!&lt;/li&gt;
+  &lt;li&gt;Check out this short-and-sweet article on DZone &lt;a href="https://dzone.com/articles/under-the-boot"&gt;to learn about Spring Boot&amp;rsquo;s auto-configuration mechanism &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Spring framework Guru is back with a video tutorial &lt;a href="https://www.youtube.com/watch?v=NNYB7G-WP5s"&gt;on using Thymeleaf to create an index page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Check out our own mad-scientist Andy Clement&amp;rsquo;s video &lt;a href="https://www.youtube.com/watch?v=kr_79McGjHY"&gt;introducing Flo, a UI for batch job orchestration on Spring XD!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;CoffeaElectronica&lt;/em&gt; blog has a &lt;a href="http://coffeaelectronica.com/blog/2015/spring-shell.html"&gt;post on using and extending the Spring Boot Remote Shell&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Check out Adib Saikali&amp;rsquo;s epic &lt;a href="http://www.infoq.com/articles/Next-Generation-Session-Management-with-Spring-Session"&gt;InfoQ article on using Spring Session&lt;/a&gt; &lt;a href="http://www.infoq.com/articles/Next-Generation-Session-Management-with-Spring-Session"&gt;http://www.infoq.com/articles/Next-Generation-Session-Management-with-Spring-Session&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;our pal Ryan Baxter has posted another installment &lt;a href="http://ryanjbaxter.com/2015/11/04/building-cloud-native-apps-with-spring-part-7/"&gt;in his series on building cloud-native apps with Spring Boot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;This isn&amp;rsquo;t strictly Spring related, but interesting: Matt Raible&amp;rsquo;s post on InfoQ looks at &lt;a href="http://www.infoq.com/news/2015/11/maven-central-at-google"&gt;Google&amp;rsquo;s &lt;em&gt;much faster&lt;/em&gt; mirror of Maven Central&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Also, Atlassian has a nice &lt;a href="https://www.atlassian.com/continuous-delivery/nuts-and-bolts-continuous-integration"&gt;ad-article on continuous-integration as the basis of continuous delivery&lt;/a&gt;, which is a &lt;em&gt;very&lt;/em&gt; powerful thing to grok. This was a nice short primer so I figured I&amp;rsquo;d pass it on&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>Spring XD 1.3 RC1 released</title>
     <link rel="alternate" href="https://spring.io/blog/2015/11/03/spring-xd-1-3-rc1-released" />
@@ -1087,16 +1110,5 @@ You updated the UI to show an employee&amp;#8217;s manager and also display erro
     <id>tag:spring.io,2015-10-20:2276</id>
     <updated>2015-10-19T19:43:00Z</updated>
     <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2015&lt;br/&gt;Speaker: Nicholas Frankel&lt;br/&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/spring-boot-for-devops"&gt;http://www.slideshare.net/SpringCentral/spring-boot-for-devops&lt;/a&gt;&lt;br/&gt;Spring Boot is a product from Spring, that provides many configuration defaults for a new Spring project, so that one can set up a project in minutes. However, this is only one of the many features of Spring Boot. One of its module also provides many important Non-Functional Requirements out-of-the-box: monitoring, metrics, exposing those over HTTP, etc. In this presentation, I&amp;rsquo;ll demo some of those, that will make DevOps more than a little happy.&lt;br/&gt;Comments: DevOps that don&amp;rsquo;t know about Spring Boot should. Out-of-the-box features are priceless and include metrics, healthchecks, hearbeat and more.&lt;br/&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Qzjs18pJQeU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>SpringOne2GX 2015 replay: 12 Factor, or Cloud Native Apps for Spring Developers</title>
-    <link rel="alternate" href="https://spring.io/blog/2015/10/19/springone2gx-2015-replay-12-factor-or-cloud-native-apps-for-spring-developers" />
-    <category term="news" label="News and Events" />
-    <author>
-      <name>Pieter Humphrey</name>
-    </author>
-    <id>tag:spring.io,2015-10-20:2275</id>
-    <updated>2015-10-19T19:37:00Z</updated>
-    <content type="html">&lt;p&gt;Recorded at SpringOne2GX 2015&lt;br/&gt;Speaker: Cornelia Davis&lt;br/&gt;Slides: &lt;a href="http://www.slideshare.net/SpringCentral/12-factor-cloud-native-apps-for-spring-developers"&gt;http://www.slideshare.net/SpringCentral/12-factor-cloud-native-apps-for-spring-developers&lt;/a&gt;&lt;br/&gt;The third platform, characterized by a fluid infrastructure where virtualized servers come into and out of existence, and workloads are constantly being moved about and scaled up and down to meet variable demand, calls for new design patterns, processes and even culture. One of the most well known descriptions of these new paradigms is the Twelve Factor App (12factor.net), which describes elements of cloud native applications. Many of these needs are squarely met through the Spring Framework, others require support from other systems. In this session we will examine each of the twelve factors and present how Spring, and platforms such as Cloud Foundry satisfy them, and in some cases we’ll even suggest that responsibility should shift from Spring to platforms. At the conclusion you will understand what is needed for cloud-native applications, why and how to deliver on those requirements.&lt;br/&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/l-BDwknHzn4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</content>
   </entry>
 </feed>

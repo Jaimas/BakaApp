@@ -1,0 +1,8 @@
+<html>
+	<head>
+		<link href="<c:url value="/resources/css/main.css" />" rel="stylesheet">
+	</head>
+	<body>
+		Test
+	</body>
+</html>

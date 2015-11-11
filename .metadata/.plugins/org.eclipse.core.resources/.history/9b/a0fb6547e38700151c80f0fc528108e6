@@ -1,0 +1,15 @@
+package com.bakapp.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+@Controller
+public class HelloWorld{
+	
+	public String helloWorld(Model model) {
+		
+		model.addAttribute("message", "Hello world");
+		
+		return "helloWorld";
+	}
+}

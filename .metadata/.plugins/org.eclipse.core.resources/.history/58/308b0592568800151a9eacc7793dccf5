@@ -1,0 +1,8 @@
+.login-page{
+	
+}
+.login-page .login-button{
+	width: 100px;
+	height: 30px;
+	color: tan;	
+}
